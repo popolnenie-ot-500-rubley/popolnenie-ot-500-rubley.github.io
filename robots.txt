@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: popolnenie-ot-500-rubley.github.io
+Sitemap: https://popolnenie-ot-500-rubley.github.io/sitemap.xml
